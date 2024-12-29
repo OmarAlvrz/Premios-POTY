@@ -66,7 +66,7 @@ npm run dev
 ## Capturas de Pantalla 📸
 
 ### Página Principal
-![Página Principal](![image](https://github.com/user-attachments/assets/260c4291-4ea5-4bd2-9974-1551f76c86a2)
+![Página Principal]![image](https://github.com/user-attachments/assets/260c4291-4ea5-4bd2-9974-1551f76c86a2)
 
 ### Página de Votación
 ![Página de Votación]![image](https://github.com/user-attachments/assets/1f95ff9c-8098-49a4-bf3a-0c506d24253e)
