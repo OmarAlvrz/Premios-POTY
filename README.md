@@ -1,6 +1,6 @@
 # Premios POTY (Papoi del Año) 🏆
 
-Una aplicación web moderna para el sistema de votación de los Premios POTY, con un diseño de interfaz de usuario tipo "vidrio", animaciones fluidas y autenticación segura.
+Una aplicación web moderna para el sistema de votación de los Premios POTY, con un diseño de interfaz de usuario tipo "vidrio", animaciones fluidas y autenticación segura. **¡La página ya está desplegada y puedes visitarla [aquí](https://papoiawards.netlify.app/)!**
 
 ## Características ✨
 
