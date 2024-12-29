@@ -26,7 +26,7 @@ Una aplicación web moderna para el sistema de votación de los Premios POTY, co
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/yourusername/poty-awards.git
+git clone https://github.com/OmarAlvrz/Premios-POTY
 ```
 
 2. Instala las dependencias
