@@ -66,14 +66,14 @@ npm run dev
 ## Capturas de Pantalla 📸
 
 ### Página Principal
-![Página Principal]![image](https://github.com/user-attachments/assets/260c4291-4ea5-4bd2-9974-1551f76c86a2)
+![image](https://github.com/user-attachments/assets/260c4291-4ea5-4bd2-9974-1551f76c86a2)
 
 ### Página de Votación
-![Página de Votación]![image](https://github.com/user-attachments/assets/1f95ff9c-8098-49a4-bf3a-0c506d24253e)
+![image](https://github.com/user-attachments/assets/1f95ff9c-8098-49a4-bf3a-0c506d24253e)
 ![image](https://github.com/user-attachments/assets/ab31e083-f237-464e-9ab5-86e2fa63efaa)
 
 ### Sección de Categoría
-![Sección de Categoría]![image](https://github.com/user-attachments/assets/272b671f-6b29-4da6-af24-7dc8bd2dee49)
+![image](https://github.com/user-attachments/assets/272b671f-6b29-4da6-af24-7dc8bd2dee49)
 
 
 
